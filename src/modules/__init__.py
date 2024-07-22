@@ -1,4 +1,4 @@
 from .minus import minus
 from .add import add, plus
 
-all = ["add","plus","minus"]
+__all__ = ["add","plus","minus"]

@@ -19,3 +19,12 @@ count = 0
 while count < 5:
     print(count)
     count += 1
+
+
+
+prop = "defi"
+
+def greet(name):
+    return f"hello, {name}!"
+
+print(greet(prop))

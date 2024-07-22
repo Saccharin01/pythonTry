@@ -4,6 +4,3 @@ def minus(a,b):
   else : 
     return b-a
   
-
-
-print (minus(1,2))
